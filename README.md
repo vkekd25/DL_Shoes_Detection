@@ -15,7 +15,7 @@
   - 
 
 - **프로젝트 결과**  
-![스크린샷 2022-08-07 오전 8.34.13.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/256628b9-76b4-4186-af1b-f78eadb0c82b/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-08-07_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_8.34.13.png)
+<img width="1023" alt="image" src="https://user-images.githubusercontent.com/101457515/196590414-a85b2f34-76d1-46c2-a324-6041e191669f.png">
   - Precision 0.6, Recall 0.82정도 나왔고 mAP는 iou가 0.5일때 0.751 괜찮게 나왔지만 iou가 0.5에서 0.95까지 스텝별 총 평균 mAP는 0.45
 
 
