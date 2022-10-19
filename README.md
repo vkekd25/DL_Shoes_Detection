@@ -16,18 +16,18 @@
 
 - **프로젝트 결과**  
 <img width="1023" alt="image" src="https://user-images.githubusercontent.com/101457515/196590414-a85b2f34-76d1-46c2-a324-6041e191669f.png">
-  - Precision 0.6, Recall 0.82정도 나왔고 mAP는 iou가 0.5일때 0.751 괜찮게 나왔지만 iou가 0.5에서 0.95까지 스텝별 총 평균 mAP는 0.45
+  - Precision 0.6, Recall 0.82, mAP는 iou가 0.5일때 0.751 괜찮게 나왔지만 iou가 0.5에서 0.95까지 스텝별 총 평균 mAP는 0.45
 
 
 - **데이터**  
-  - RoboFlow Show Detection(https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) 
+  - RoboFlow Show Detection(https://universe.roboflow.com/) 
 
 - **포트폴리오**  
 https://sweet-wheel-f17.notion.site/Shoes-Detection-071dbc43fcf54cd7804ba48748d59494
 
 - **발표영상 링크**    
-<img src="https://user-images.githubusercontent.com/101457515/196030344-38ac1d9f-f79a-4090-98ba-18de8172d7c7.jpeg" width="700" height="400"/> <br>
-(https://youtu.be/cYjtTg0kUH4)
+<img src="https://i9.ytimg.com/vi/dE9bAFTyzKs/mq3.jpg?sqp=CNScwpoG&rs=AOn4CLBCfQkN-HeuhjgfTDhi3fFt1TCzPA&retry=5" width="700" height="400"/> <br>
+(https://youtu.be/dE9bAFTyzKs)
 
 
 
