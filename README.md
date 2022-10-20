@@ -16,11 +16,12 @@
   - 탐지결과를 통한 해당 신발모델 관련된 이커머스 사이트 홍보
 
 - **프로젝트 결과**  
-<img width="1023" alt="image" src="https://user-images.githubusercontent.com/101457515/196590414-a85b2f34-76d1-46c2-a324-6041e191669f.png">  
-    - Precision 0.6
-    - Recall 0.82
-    - mAP는 iou가 0.5 : 0.751
-    - iou가 0.5 ~ 0.95 총 평균 mAP : 0.45
+<img width="1023" alt="image" src="https://user-images.githubusercontent.com/101457515/196590414-a85b2f34-76d1-46c2-a324-6041e191669f.png">
+
+Precision 0.6  
+Recall 0.82  
+mAP는 iou가 0.5 : 0.751  
+iou가 0.5 ~ 0.95 총 평균 mAP : 0.45  
 
 
 - **데이터**  
