@@ -40,7 +40,7 @@ https://sweet-wheel-f17.notion.site/Shoes-Detection-071dbc43fcf54cd7804ba48748d5
 
 
 - **발표영상 링크**    
-<img src="https://user-images.githubusercontent.com/101457515/196829590-af9e4e0e-c76e-47d6-bdb7-dd11d73f31c8.png" width="700" height="400"/> <br>
+<img src="https://user-images.githubusercontent.com/101457515/196854112-a39e2e50-e7a0-4258-8588-18a1bd284ef5.png" width="700" height="400"/> <br>
 (https://youtu.be/dE9bAFTyzKs)
 
 <br><br>
