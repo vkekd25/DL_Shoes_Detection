@@ -1,4 +1,4 @@
-# Sc4_Shoes_Detection
+# DL_Shoes_Detection
 
 ## 부트캠프 DL 프로젝트
 <br>
@@ -7,7 +7,7 @@
 
 ## DL_Shoes_Detection
 - **프로젝트 주제**
-  - DL(딥러닝)을 통한 해당 신발 모델을 탐지하여 관련 상품 이커머스 연계 및 홍보
+  - DL(딥러닝)을 통한 해당 신발 모델을 탐지한 뒤 관련 상품 이커머스 연계 및 홍보
 
 - **프로젝트 개요**
   - 
@@ -26,9 +26,8 @@
 https://sweet-wheel-f17.notion.site/Shoes-Detection-071dbc43fcf54cd7804ba48748d59494
 
 - **발표영상 링크**    
-<img src="https://i9.ytimg.com/vi/dE9bAFTyzKs/mq3.jpg?sqp=CNScwpoG&rs=AOn4CLBCfQkN-HeuhjgfTDhi3fFt1TCzPA&retry=5" width="700" height="400"/> <br>
+<img src="https://user-images.githubusercontent.com/101457515/196826397-a7a8d214-bac6-4c4d-a968-e5ebeb269aef.png" width="700" height="400"/> <br>
 (https://youtu.be/dE9bAFTyzKs)
-
 
 
 <br><br>
