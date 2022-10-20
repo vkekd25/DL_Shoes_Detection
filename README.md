@@ -35,6 +35,7 @@ https://sweet-wheel-f17.notion.site/Shoes-Detection-071dbc43fcf54cd7804ba48748d5
     - 채널명: 이수안컴퓨터연구소
     - URL: https://www.youtube.com/watch?v=fdWx3QV5n44&t=6988s 
   - 이미지 증강 라이브러리
+    - 웹사이트명: Albumentation 공식문서 
     - URL: https://albumentations.ai/docs/getting_started/image_augmentation/
 
 
