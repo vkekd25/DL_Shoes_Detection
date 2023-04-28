@@ -18,12 +18,12 @@
 - **프로젝트 결과**  
 <img width="1023" alt="image" src="https://user-images.githubusercontent.com/101457515/196590414-a85b2f34-76d1-46c2-a324-6041e191669f.png">
 
-약 300개의 이미지들로  
+**약 300개의 이미지들로**  
 Precision 0.6  
 Recall 0.82  
 mAP는 iou가 0.5 : 0.751  
 iou가 0.5 ~ 0.95 총 평균 mAP : 0.45  
-위와 같은 결과를 도출하였습니다.
+**위와 같은 결과를 도출하였습니다.**
 
 
 - **데이터**  
